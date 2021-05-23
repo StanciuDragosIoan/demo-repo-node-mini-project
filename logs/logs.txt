@@ -1,0 +1,2 @@
+Logged at: 23-May-2021, textLogged: test123
+Logged at: 23-May-2021, textLogged: another test123 
